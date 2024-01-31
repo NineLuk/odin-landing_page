@@ -12,7 +12,8 @@ header,
 .top_middle,
 .upper_middle,
 .lower_middle,
-.bottom_middle{
+.bottom_middle,
+.footer{
     flex: 1;
 }
 
