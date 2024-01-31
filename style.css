@@ -10,6 +10,11 @@ header{
     align-items: center;
 }
 
+.top_middle{
+    background-color: #1F2937;
+    display: flex;
+}
+
 .unlist{
     display: flex;
     gap: 8px;
