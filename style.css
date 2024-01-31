@@ -67,8 +67,13 @@ button{
 .bigad{
     background-color: #3882F6;
     color: #F9FAF8;
-    padding: 1px 150px;
     display: flex;
+
+    flex: 1;
+    margin: 0 50px;
+    border-radius: 10px;
+    justify-content: space-around;
+    align-items: center;
 }
 
 #heromaintext{
