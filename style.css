@@ -20,6 +20,12 @@ header{
     flex-direction: column;
 }
 
+.lower_middle{
+    background-color: #E5E7EB;
+    display: flex;
+    flex-direction: column;
+}
+
 .unlist{
     display: flex;
     gap: 8px;
