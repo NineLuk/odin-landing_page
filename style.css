@@ -64,6 +64,11 @@ button{
     padding: 8px 24px;
 }
 
+#heromaintext{
+    font-size: 48px;
+    font-weight: 800;
+}
+
 #mainquote{
     color: #1F2937;
     font-style: italic;
