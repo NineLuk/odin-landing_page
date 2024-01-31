@@ -15,6 +15,11 @@ header{
     display: flex;
 }
 
+.upper_middle{
+    display: flex;
+    flex-direction: column;
+}
+
 .unlist{
     display: flex;
     gap: 8px;
