@@ -55,7 +55,11 @@ header{
     color: #F9FAF8;
 }
 
-
+#mainquote{
+    color: #1F2937;
+    font-style: italic;
+    font-size: 36px;
+}
 #h2text{
     color: #1F2937;
     font-weight: 800;
