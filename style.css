@@ -55,6 +55,12 @@ header{
     color: #F9FAF8;
 }
 
+
+#h2text{
+    color: #1F2937;
+    font-weight: 800;
+    font-size: 36px;
+}
 .unlist{
     display: flex;
     gap: 8px;
