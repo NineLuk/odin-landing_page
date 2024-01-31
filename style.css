@@ -64,6 +64,13 @@ button{
     padding: 8px 24px;
 }
 
+.bigad{
+    background-color: #3882F6;
+    color: #F9FAF8;
+    padding: 1px 150px;
+    display: flex;
+}
+
 #heromaintext{
     font-size: 48px;
     font-weight: 800;
