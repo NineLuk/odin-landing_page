@@ -70,6 +70,10 @@ button{
     padding: 8px 24px;
 }
 
+#button2{
+    border: solid;
+}
+
 .bigad{
     background-color: #3882F6;
     color: #F9FAF8;
