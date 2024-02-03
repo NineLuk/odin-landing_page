@@ -24,6 +24,7 @@ header{
     align-items: center;
     justify-content: center;
     gap: 350px;
+    padding: 0px 150px;
 }
 
 .top_middle{
@@ -32,7 +33,7 @@ header{
     display: flex;
     justify-content: center;
     align-items: center;
-    gap: 350px;
+    gap: 150px;
     padding: 0px 150px 50px 150px;
 }
 
