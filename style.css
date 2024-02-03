@@ -53,6 +53,7 @@ header{
     display: flex;
     justify-content: center;
     align-items: center;
+    margin: 75px 100px;
 }
 
 .footer{
