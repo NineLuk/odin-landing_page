@@ -126,7 +126,7 @@ button{
 }
 .unlist{
     display: flex;
-    gap: 8px;
+    gap: 25px;
 }
 ul{
     list-style: none;
