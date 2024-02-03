@@ -38,6 +38,7 @@ header{
 .upper_middle{
     display: flex;
     flex-direction: column;
+    text-align: center;
 }
 
 .lower_middle{
