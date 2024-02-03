@@ -49,6 +49,12 @@ header{
     flex-wrap: wrap;
 }
 
+.image{
+    border: solid;
+    border-color: #3882F6;
+    border-radius: 10px;
+}
+
 .lower_middle{
     background-color: #E5E7EB;
     display: flex;
