@@ -44,6 +44,8 @@ header{
     background-color: #E5E7EB;
     display: flex;
     flex-direction: column;
+    justify-content: center;
+    align-items: center;
 }
 
 .bottom_middle{
