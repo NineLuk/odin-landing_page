@@ -46,6 +46,7 @@ header{
     flex-direction: column;
     justify-content: center;
     align-items: center;
+    padding: 50px 100px 70px 100px;
 }
 
 .bottom_middle{
